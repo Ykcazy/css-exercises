@@ -19,6 +19,10 @@ body {
   padding: 10px;
 }
 
+.content{
+  padding: 15px 10px;
+}
+
 button {
   background: white;
 }
