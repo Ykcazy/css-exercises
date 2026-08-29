@@ -23,6 +23,10 @@ body {
   padding: 15px 10px;
 }
 
+.button-container{
+  text-align: center;
+}
+
 button {
   background: white;
   display: block;
