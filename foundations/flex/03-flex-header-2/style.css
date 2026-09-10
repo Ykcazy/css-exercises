@@ -14,7 +14,7 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
-  padding: 16px 0px;
+  padding: 8px;
 }
 
 .profile-image {
@@ -36,14 +36,15 @@ body {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 8px;
+  gap: 16px;
 }
 
 .header-item{
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
 }
+
 button {
   border: none;
   border-radius: 8px;
