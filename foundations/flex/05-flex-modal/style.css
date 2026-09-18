@@ -79,12 +79,16 @@ button.cancel {
 }
 
 .container{
-  gap: 18px;
   display: flex;
   flex-flow: column wrap;
 }
 
 .header-container{
+  margin-bottom: 10px;
   display: flex;
   justify-content: space-between
+}
+
+.text{
+  margin-bottom: 18px;
 }
