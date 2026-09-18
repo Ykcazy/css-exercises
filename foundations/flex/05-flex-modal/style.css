@@ -78,7 +78,13 @@ button.cancel {
   font-size: large;
 }
 
+.container{
+  gap: 18px;
+  display: flex;
+  flex-flow: column wrap;
+}
+
 .header-container{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between
 }
