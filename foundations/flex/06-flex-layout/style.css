@@ -42,7 +42,7 @@ a{
   color:gray
 }
 
-.header
+.header,
 .footer{
   display: flex;
   justify-content: space-between;
