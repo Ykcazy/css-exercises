@@ -63,3 +63,9 @@ a{
   flex: 1;
   gap: 16px;
 }
+
+.footer{
+  display: flex;
+  background-color: #eeeeee;
+  justify-content: space-between;
+}
