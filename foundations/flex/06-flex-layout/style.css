@@ -53,3 +53,12 @@ a{
   padding-right: 16px;
   gap: 16px;
 }
+
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  gap: 16px;
+}
