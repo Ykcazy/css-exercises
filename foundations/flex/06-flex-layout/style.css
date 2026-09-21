@@ -46,6 +46,7 @@ a{
 .footer{
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .content{
