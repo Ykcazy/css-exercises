@@ -38,7 +38,8 @@ a{
   color:gray
 }
 
-.header{
+.header
+.footer{
   display: flex;
   justify-content: space-between;
 }
@@ -65,7 +66,5 @@ a{
 }
 
 .footer{
-  display: flex;
   background-color: #eeeeee;
-  justify-content: space-between;
 }
